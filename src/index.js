@@ -19,6 +19,7 @@ function main(inputPath, outputPath, cardInfoPath) {
 
 	const keyMap = {
 		"stronghold": "Stronghold",
+		"role": "Role",
 		"provinces": "Province Cards",
 		"dynasty": "Dynasty Deck",
 		"conflict": "Conflict Deck"

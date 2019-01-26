@@ -11,7 +11,14 @@ exports.readDeckData = function (path) {
 	data = {};
 	data.stronghold = [];
 	data.stronghold.push(createElement(lines.shift(), 1));
+
+	data.role = [];
+	data.role.push(createElement(lines.shift(), 1));
+
 	data.provinces = [];
+
+
+
 
 	while (!lines[0].includes("Influence:")) {
 

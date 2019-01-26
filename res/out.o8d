@@ -2,162 +2,65 @@
 <data>
   <deck game="bb0f02e7-2a6f-4ae3-84a2-c501b4176844" sleeveid="0">
     <section name="Stronghold" shared="False">
-      <card qty="1" id="8c53e061-b416-4d32-84a1-596c4f3d005a">
-        <value>Shizuka Toshi</value>
-      </card>
+      <card qty="1" id="8fc39443-2135-40fb-bece-3889c3dde8a0">City of the Open Hand</card>
+    </section>
+    <section name="Roles" shared="False">
+      <card qty="1" id="156cee09-4e74-4808-823d-ffe7213b47ca">Keeper of Void</card>
     </section>
     <section name="Province Cards" shared="False">
-      <card qty="1" id="98e106b6-7bb4-47c5-9fe7-dd290e3d42df">
-        <value>The Art of Peace</value>
-      </card>
-      <card qty="1" id="47d199f8-b178-4bb2-9355-11d16356648b">
-        <value>Entrenched Position</value>
-      </card>
-      <card qty="1" id="a8c4f60e-6c36-4bd7-99da-eef1c3da2aab">
-        <value>Night Raid</value>
-      </card>
-      <card qty="1" id="19c319c6-b2e5-4877-9f6d-b70a64988ea4">
-        <value>Shameful Display</value>
-      </card>
-      <card qty="1" id="513372c8-9f67-4c26-8f54-7a9fce91b3c1">
-        <value>Rally to the Cause</value>
-      </card>
+      <card qty="1" id="0549220e-c514-4f95-beac-4471ea24ab10">Fertile Fields</card>
+      <card qty="1" id="82de5aed-145f-4fda-812e-5d1cdf80b0a8">Ancestral Lands</card>
+      <card qty="1" id="90776573-f6a5-45c5-ab3a-204cdd1d1aaf">Meditations on the Tao</card>
+      <card qty="1" id="19c319c6-b2e5-4877-9f6d-b70a64988ea4">Shameful Display</card>
+      <card qty="1" id="513372c8-9f67-4c26-8f54-7a9fce91b3c1">Rally to the Cause</card>
     </section>
     <section name="Dynasty Deck" shared="False">
-      <card qty="1" id="f364aac3-9e20-4b59-bebc-19627b0ba91d">
-        <value>Asahina Artisan</value>
-      </card>
-      <card qty="1" id="64b7f051-9950-408f-accf-001cb8a74a7a">
-        <value>Asahina Storyteller</value>
-      </card>
-      <card qty="1" id="291fbfe6-8a12-4f0a-bbb9-78b7de0b4ad9">
-        <value>Brash Samurai</value>
-      </card>
-      <card qty="1" id="e3ea6226-5a5c-4311-a61e-e784169260fb">
-        <value>Cautious Scout</value>
-      </card>
-      <card qty="1" id="5de0deef-9cdc-42f7-9cfc-c03bce65bfed">
-        <value>Daidoji Nerishma</value>
-      </card>
-      <card qty="1" id="fea8a1bc-d121-4cfc-9330-6a547f0aad46">
-        <value>Doji Challenger</value>
-      </card>
-      <card qty="1" id="da3ab68e-ab00-4dbf-a2f6-111075e3046a">
-        <value>Doji Gift Giver</value>
-      </card>
-      <card qty="1" id="3935c2f6-c1f3-46b8-a549-16d32f9a99a2">
-        <value>Doji Hotaru</value>
-      </card>
-      <card qty="1" id="b73d6577-5532-4bd9-9843-0187dd3feff2">
-        <value>Doji Whisperer</value>
-      </card>
-      <card qty="1" id="a9cf0985-a4e6-4874-9a61-c4f480225f23">
-        <value>Guest of Honor</value>
-      </card>
-      <card qty="1" id="a00790d4-5ae0-41d9-881a-373e14ca40fa">
-        <value>Kakita Asami</value>
-      </card>
-      <card qty="1" id="d59dba2f-3416-4fe7-91a6-f9d3c80cdcd2">
-        <value>Kakita Kaezin</value>
-      </card>
-      <card qty="1" id="708ff8aa-3b55-4a59-a13f-a9b2b0b63ae2">
-        <value>Miya Mystic</value>
-      </card>
-      <card qty="1" id="67b18356-65a2-4a04-8d15-4e5425ab4160">
-        <value>Otomo Courtier</value>
-      </card>
-      <card qty="1" id="ead54ee3-d509-458c-bc23-638fded33c64">
-        <value>Savvy Politician</value>
-      </card>
-      <card qty="2" id="9dc58761-e779-4b88-9405-eabf6edcf1ea">
-        <value>Seppun Guardsman</value>
-      </card>
-      <card qty="2" id="21bb93d6-537d-4084-bda1-e3647789fee8">
-        <value>Wandering Ronin</value>
-      </card>
-      <card qty="1" id="04d91060-4fe5-4191-a6e5-9e423c9f5f8f">
-        <value>Artisan Academy</value>
-      </card>
-      <card qty="1" id="eac25eba-25ae-4d38-b1f0-01cfe5cc35df">
-        <value>Favorable Ground</value>
-      </card>
-      <card qty="1" id="8dd56bff-5761-4075-9dde-2dba1452e6f6">
-        <value>Imperial Storehouse</value>
-      </card>
+      <card qty="2" id="3fc9117d-1c7c-444e-94e1-19698ce6190a">Bayushi Liar</card>
+      <card qty="2" id="221a1956-1bac-4aa1-ac9e-4b78ab0bd83c">Bayushi Manipulator</card>
+      <card qty="2" id="8a6ae3d6-a34a-4340-ad2d-05304377e8f8">Bayushi Shoju</card>
+      <card qty="2" id="b5e46d5a-f4e5-4a2a-a754-8d4aa5b7f527">Bayushi Yunako</card>
+      <card qty="2" id="30b932e8-8650-44f8-8c9c-3d70a7fed8e7">Blackmail Artist</card>
+      <card qty="2" id="f8376024-7ca5-4698-a381-e9bb3a18eaae">Favored Niece</card>
+      <card qty="2" id="7750490a-5dfb-4960-bd4b-2b800174a5ef">Keeper Initiate</card>
+      <card qty="2" id="708ff8aa-3b55-4a59-a13f-a9b2b0b63ae2">Miya Mystic</card>
+      <card qty="2" id="67b18356-65a2-4a04-8d15-4e5425ab4160">Otomo Courtier</card>
+      <card qty="2" id="9dc58761-e779-4b88-9405-eabf6edcf1ea">Seppun Guardsman</card>
+      <card qty="2" id="5c757161-4872-4ae7-9c5e-6d4a75245a77">Shosuro Actress</card>
+      <card qty="2" id="03f8cf51-5870-419d-bf31-83c1b62dd707">Shosuro Miyako</card>
+      <card qty="2" id="871af009-a306-4448-acbf-766769633992">Sinister Soshi</card>
+      <card qty="2" id="cb8008be-33cb-4a82-affe-4cef2ce41981">Soshi Illusionist</card>
+      <card qty="2" id="21bb93d6-537d-4084-bda1-e3647789fee8">Wandering Ronin</card>
+      <card qty="2" id="21cf6a90-a206-4854-9b6c-644d83f12522">Yogo Hiroue</card>
+      <card qty="2" id="57fd4f38-7591-4637-a7f6-dd84d31548ef">Yogo Outcast</card>
+      <card qty="2" id="8fbaa0fa-ef55-4775-a47c-414c3a154dc9">Young Rumormonger</card>
+      <card qty="2" id="df365b9f-63cd-4d81-ae02-a69db1d81cea">City of Lies</card>
+      <card qty="2" id="eac25eba-25ae-4d38-b1f0-01cfe5cc35df">Favorable Ground</card>
+      <card qty="2" id="8dd56bff-5761-4075-9dde-2dba1452e6f6">Imperial Storehouse</card>
     </section>
     <section name="Conflict Deck" shared="False">
-      <card qty="1" id="916f4fab-1e57-444e-bdbe-8cd7eeb956c8">
-        <value>Admit Defeat</value>
-      </card>
-      <card qty="1" id="3b85a2ef-1f9c-4c3f-bc17-f427effc1a14">
-        <value>Assassination</value>
-      </card>
-      <card qty="1" id="84ed44dc-0324-4f88-90ff-1d4b0679be8d">
-        <value>Banzai!</value>
-      </card>
-      <card qty="1" id="b618c2aa-9687-491a-aa7d-7e284264583c">
-        <value>Charge!</value>
-      </card>
-      <card qty="1" id="b814b1f3-f7e9-462a-99ed-448937dfc1a8">
-        <value>Contingency Plan</value>
-      </card>
-      <card qty="1" id="04ebdaa2-b46a-49c7-a0ba-1855504b4a12">
-        <value>Court Games</value>
-      </card>
-      <card qty="1" id="613a8a9f-4b3f-4ea4-90ed-3d7423d8423a">
-        <value>Fallen in Battle</value>
-      </card>
-      <card qty="1" id="4943895d-ab44-4571-ae49-2f51781469ad">
-        <value>For Shame!</value>
-      </card>
-      <card qty="1" id="485cc3e7-1fd1-4ba1-8a6d-3a2c476b9993">
-        <value>Good Omen</value>
-      </card>
-      <card qty="1" id="27a2aea7-18e8-403c-88cb-74d240b772e9">
-        <value>Noble Sacrifice</value>
-      </card>
-      <card qty="1" id="9859c9e7-ddb5-4239-aef2-591feb6a8ac7">
-        <value>Outwit</value>
-      </card>
-      <card qty="1" id="3589825a-aceb-42aa-8796-652803b56585">
-        <value>Rout</value>
-      </card>
-      <card qty="1" id="95b10d7c-092b-414d-af65-bc351d1ce8ab">
-        <value>Spies at Court</value>
-      </card>
-      <card qty="1" id="06c75060-149d-4f18-8473-8358dc9f751a">
-        <value>The Perfect Gift</value>
-      </card>
-      <card qty="1" id="61870bd9-a875-4e63-b261-c271a8097d48">
-        <value>Voice of Honor</value>
-      </card>
-      <card qty="1" id="8e1d1326-c2cc-48db-ad41-8e26ce78a4bb">
-        <value>Way of the Crane</value>
-      </card>
-      <card qty="1" id="2abecb53-9c4c-45d7-8a26-787af66511fd">
-        <value>Above Question</value>
-      </card>
-      <card qty="1" id="6d8d67f8-38ea-4db2-a5d5-2f54b9493f33">
-        <value>Cloud the Mind</value>
-      </card>
-      <card qty="1" id="3cab40e6-8964-4aa7-aead-378bbdd87ed1">
-        <value>Duelist Training</value>
-      </card>
-      <card qty="1" id="0d11eb2f-2f27-4bf8-bc25-752e367e045a">
-        <value>Fine Katana</value>
-      </card>
-      <card qty="1" id="2536d187-8579-4c38-bc95-460444803797">
-        <value>Height of Fashion</value>
-      </card>
-      <card qty="1" id="0f8ce9b0-be45-42a8-a310-bab3bc4660d7">
-        <value>Ornate Fan</value>
-      </card>
-      <card qty="1" id="81ee4125-ccbb-4ee2-b156-bd479181dbe0">
-        <value>Political Rival</value>
-      </card>
-      <card qty="1" id="ad350407-e999-4da0-b136-dd046375e07a">
-        <value>Steward of Law</value>
-      </card>
+      <card qty="2" id="f2ca9035-de1c-4539-8cb8-cc504e47156c">Ambush</card>
+      <card qty="2" id="3b85a2ef-1f9c-4c3f-bc17-f427effc1a14">Assassination</card>
+      <card qty="2" id="84ed44dc-0324-4f88-90ff-1d4b0679be8d">Banzai!</card>
+      <card qty="2" id="e0949fb5-72cc-47da-bfef-979d967aff28">Blackmail</card>
+      <card qty="2" id="e71194e8-30ae-4e8e-a053-d6d7ce0cb149">Calling in Favors</card>
+      <card qty="2" id="b618c2aa-9687-491a-aa7d-7e284264583c">Charge!</card>
+      <card qty="2" id="b814b1f3-f7e9-462a-99ed-448937dfc1a8">Contingency Plan</card>
+      <card qty="2" id="04ebdaa2-b46a-49c7-a0ba-1855504b4a12">Court Games</card>
+      <card qty="2" id="613a8a9f-4b3f-4ea4-90ed-3d7423d8423a">Fallen in Battle</card>
+      <card qty="2" id="4943895d-ab44-4571-ae49-2f51781469ad">For Shame!</card>
+      <card qty="2" id="cd99242a-29bb-49dd-82d8-cec775afd764">Forged Edict</card>
+      <card qty="1" id="485cc3e7-1fd1-4ba1-8a6d-3a2c476b9993">Good Omen</card>
+      <card qty="2" id="ed546e3d-c954-4354-94fe-5bce936b649e">I Can Swim</card>
+      <card qty="2" id="9859c9e7-ddb5-4239-aef2-591feb6a8ac7">Outwit</card>
+      <card qty="2" id="3589825a-aceb-42aa-8796-652803b56585">Rout</card>
+      <card qty="2" id="6c18d7c6-03fb-4717-93f3-e44314efae56">Way of the Scorpion</card>
+      <card qty="2" id="6d8d67f8-38ea-4db2-a5d5-2f54b9493f33">Cloud the Mind</card>
+      <card qty="2" id="4997589a-6b02-45e2-a6ba-6ee8084af295">Court Mask</card>
+      <card qty="2" id="2e197bbc-d6bc-441b-92c4-0583848d30bc">Fiery Madness</card>
+      <card qty="2" id="0d11eb2f-2f27-4bf8-bc25-752e367e045a">Fine Katana</card>
+      <card qty="2" id="0f8ce9b0-be45-42a8-a310-bab3bc4660d7">Ornate Fan</card>
+      <card qty="2" id="e3768195-9e62-4468-8ef4-5349c2a4f1ad">Adept of Shadows</card>
+      <card qty="2" id="3f288e4d-8003-4f8e-94ab-318110500035">Unassuming Yōjimbō</card>
     </section>
   </deck>
 </data>

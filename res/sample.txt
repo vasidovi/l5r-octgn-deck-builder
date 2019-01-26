@@ -1,58 +1,59 @@
-Shizuka Toshi
-The Art of Peace Air
-Entrenched Position Earth
-Night Raid Fire
+City of the Open Hand
+Keeper of Void
+Fertile Fields Air
+Ancestral Lands Earth
+Meditations on the Tao Fire
 Shameful Display Void
 Rally to the Cause Water
-Influence: 0/10, 10 remaining
-Dynasty Deck (22) // dyn  skip
-Character (19) // skip
-1x Asahina Artisan
-1x Asahina Storyteller
-1x Brash Samurai
-1x Cautious Scout
-1x Daidoji Nerishma
-1x Doji Challenger
-1x Doji Gift Giver
-1x Doji Hotaru
-1x Doji Whisperer
-1x Guest of Honor
-1x Kakita Asami
-1x Kakita Kaezin
-1x Miya Mystic
-1x Otomo Courtier
-1x Savvy Politician
-2x Seppun Guardsman
-2x Wandering Ronin
-Holding (3)  // skip
-1x Artisan Academy
-1x Favorable Ground
-1x Imperial Storehouse
-Conflict Deck (24) // conflict deck skip
-Event (16) / skip
-1x Admit Defeat
-1x Assassination
-1x Banzai!
-1x Charge!
-1x Contingency Plan
-1x Court Games
-1x Fallen in Battle
-1x For Shame!
-1x Good Omen
-1x Noble Sacrifice
-1x Outwit
-1x Rout
-1x Spies at Court
-1x The Perfect Gift
-1x Voice of Honor
-1x Way of the Crane
-Attachment (6)  // skip
-1x Above Question
-1x Cloud the Mind
-1x Duelist Training
-1x Fine Katana
-1x Height of Fashion
-1x Ornate Fan
-Character (2) //skip
-1x Political Rival
-1x Steward of Law 
+Influence: 0/13, 13 remaining
+Dynasty Deck (42)
+ Character (36)
+2x  Bayushi Liar
+2x  Bayushi Manipulator
+2x  Bayushi Shoju
+2x  Bayushi Yunako
+2x  Blackmail Artist
+2x  Favored Niece
+2x  Keeper Initiate
+2x  Miya Mystic
+2x  Otomo Courtier
+2x  Seppun Guardsman
+2x  Shosuro Actress
+2x  Shosuro Miyako
+2x  Sinister Soshi
+2x  Soshi Illusionist
+2x  Wandering Ronin
+2x  Yogo Hiroue
+2x  Yogo Outcast
+2x  Young Rumormonger
+ Holding (6)
+2x  City of Lies
+2x  Favorable Ground
+2x  Imperial Storehouse
+Conflict Deck (45)
+ Event (31)
+2x  Ambush
+2x  Assassination
+2x  Banzai!
+2x  Blackmail
+2x  Calling in Favors
+2x  Charge!
+2x  Contingency Plan
+2x  Court Games
+2x  Fallen in Battle
+2x  For Shame!
+2x  Forged Edict
+1x  Good Omen
+2x  I Can Swim
+2x  Outwit
+2x  Rout
+2x  Way of the Scorpion
+ Attachment (10)
+2x  Cloud the Mind
+2x  Court Mask
+2x  Fiery Madness
+2x  Fine Katana
+2x  Ornate Fan
+ Character (4)
+2x  Adept of Shadows
+2x  Unassuming Yōjimbō

@@ -18,7 +18,7 @@ const template = {
 							"qty": "{{count}}",
 							"id": "{{id}}"
 						},
-						"value": "{{name}}"
+						"#": "{{name}}"
 					}
 				}
 			}
