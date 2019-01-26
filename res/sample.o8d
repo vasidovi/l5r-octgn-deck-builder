@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb0f02e7-2a6f-4ae3-84a2-c501b4176844" sleeveid="0">
+  <section name="Stronghold" shared="False">
+    <card qty="1" id="002d1523-2a0c-46ec-897c-f3079c206ab6">Hisu Mori Toride</card>
+  </section>
+  <section name="Province Cards" shared="False">
+    <card qty="1" id="aa49c0d1-7356-4828-92c8-cae98a20b25d">Magistrate Station</card>
+    <card qty="1" id="97c26946-791e-4512-8324-ff146d23452d">Web of Lies</card>
+  </section>
+  <section name="Role" shared="False">
+    <card qty="1" id="4a7d2f30-6e0e-43b3-b8bb-a10c34d77097">Keeper of Water</card>
+    <card qty="1" id="ee1b351c-a755-403c-a3f4-c1b2c141e4cc">Keeper of Earth</card>
+  </section>
+  <section name="Dynasty Deck" shared="False">
+    <card qty="1" id="92fb3c5e-a2a0-4a5d-aca8-c867218f7747">Matsu Berserker</card>
+    <card qty="1" id="cf5dec4b-7351-4b04-aac2-987df5873bc5">Deathseeker</card>
+  </section>
+  <section name="Conflict Deck" shared="False">
+    <card qty="1" id="51149341-fabf-40ec-bca7-7ed5425e095f">Pragmatism</card>
+    <card qty="1" id="39c94dd3-5c60-4d07-b243-e9c7cee60672">Specialized Defenses</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

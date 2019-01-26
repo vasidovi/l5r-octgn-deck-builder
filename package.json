@@ -1,0 +1,17 @@
+{
+  "name": "lfr-octgn-deck-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js2xmlparser": "^3.0.0",
+    "json4json": "^1.1.0",
+    "lodash": "^4.17.11"
+  }
+}
